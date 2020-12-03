@@ -1,0 +1,105 @@
+
+.menu li{
+    display: inline-block;
+    color: violet;
+    float: right;
+    margin: 10px;
+    
+}
+.moi{
+    height: 150px;
+    width: windows;
+}
+
+
+.main-menu{
+    display: inline-block;
+    height: 150px;
+}
+
+
+h1{
+    color: indigo;
+    font-size: italic;
+}
+
+h2{
+    margin: 5px;
+    color: green;
+    background-color: rgb(226, 104, 226);
+    
+}
+
+
+.text div{
+    float: right;
+}
+
+
+
+
+
+.parallax {
+    /* The image used */
+    background-image: url("https://images.unsplash.com/photo-1508672019048-805c876b67e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=793&q=80");
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+
+
+
+
+
+    .costa{
+        float: left;
+        width: 200px;
+        height: 200px;
+        
+    }
+
+    .nouz{
+        float: right;
+        width: 200px;
+        height: 200px;
+    }
+
+    .beyrouth{
+        float: left;
+        width: 200px;
+        height: 200px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
